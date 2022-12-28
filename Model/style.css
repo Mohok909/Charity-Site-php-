@@ -1,0 +1,47 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-style: sans-serif;
+
+
+}
+body {
+	background: url('../image/reg.jpg') no-repeat;
+	background-size: cover;
+	color: #fff;
+}
+
+.form {
+	position: static;
+	
+}
+a:link {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.already{
+	position: absolute;
+	top: 25%;
+	left: 65%;
+	background: url('https://source.unsplash.com/200x500/?thinkking');
+	border-radius: 50%;
+	height: 200px;
+	width: 500px;
+}

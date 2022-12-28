@@ -1,0 +1,24 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-style: sans-serif;
+
+
+}
+body {
+	background: url('../image/12.jpg') no-repeat;
+	background-size: 100%;
+	color: #fFff;
+}
+
+.form {
+	position: absolute;
+  top: 50%;
+  left: 50%;
+	transform: translate(-50%,-50%);
+  background-color: gray;
+  height: 200px;
+  width: 700px;
+
+}
+
